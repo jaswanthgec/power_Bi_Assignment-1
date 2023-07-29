@@ -1,2 +1,2 @@
 # power_Bi_Assignment-1
-we create some visualisations on Sales, Marketing, Finance and Production.
+we create some visualizations on Sales, Marketing, Finance, production, and much more.
